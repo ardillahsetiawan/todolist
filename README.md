@@ -1,2 +1,2 @@
 # todolist
-Just a simple to do list app with javascript
+Just a simple to do list app using javascript
